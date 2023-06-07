@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "A peek into China's stance on web3",
+            "description": "Web3 has come to be known as the internet built on decentralized blockchains that power applications like cryptocurrencies and NFTs. The catch-all term is sometimes used interchangeably with crypto, but in China, the government is pursuing its own path in web…",
+            "url": "https://techcrunch.com/2023/06/04/chinas-vision-of-web-3/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1366475548.jpg?resize=1200,800",
+            "publishedAt": "2023-06-04T13:00:40Z",
+            "content": "Web3 has come to be known as the internet built on decentralized blockchains that power applications like cryptocurrencies and NFTs. The catch-all term is sometimes used interchangeably with crypto, … [+5187 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Taylor Hatmaker",
+            "title": "YouTube rolls back its rules against election misinformation",
+            "description": "YouTube reverses its rules against some election misinformation, allowing some previously prohibited content around U.S. elections.",
+            "url": "https://techcrunch.com/2023/06/03/youtube-rolls-back-its-rules-against-election-misinformation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?resize=1200,674",
+            "publishedAt": "2023-06-03T22:57:34Z",
+            "content": "YouTube was the slowest major platform to disallow misinformation during the 2020 U.S. election and almost three years later, the company will toss that policy out altogether.\r\nThe company announced … [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo and Christine Hall",
+            "title": "Inside Stripe's latest moves",
+            "description": "Stripe bought a company and expanded into credit, while Brex and Mesh Payments shared some company milestones.",
+            "url": "https://techcrunch.com/2023/06/04/inside-stripes-latest-moves/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1125716134.jpg?resize=1200,800",
+            "publishedAt": "2023-06-03T00:47:48Z",
+            "content": "Welcome back to The Interchange! If you want this in your inbox, sign up here. While there is always a lot going on in the world of fintech, this week felt a little subdued overall at least when it c… [+11039 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Gig workers get paid, Fidelity slashes Reddit's valuation and AI conquers Minecraft",
+            "description": "In this edition of Week in Review, we cover Fidelity massively slashing Reddit's valuation, AI conquering Minecraft and more.",
+            "url": "https://techcrunch.com/2023/06/03/gig-workers-get-paid-fidelity-slashes-reddits-valuation-and-ai-conquers-minecraft/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/reddit.jpg?resize=1200,800",
+            "publishedAt": "2023-06-02T23:40:28Z",
+            "content": "Hey, folks, welcome to Week in Review (WiR), TechCrunch’s regular newsletter that recaps the week in tech. Hope the summer’s treating y’all well — it’s a balmy 90 degrees here in NYC! — and that some… [+5602 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Elon goes to China, Rivian is selling stock for $3 billion, and Fiat's cutest tiny EV",
+            "description": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.",
+            "url": "https://techcrunch.com/2023/06/04/elon-goes-to-china-rivian-is-selling-stock-for-3-billion-and-fiats-cutest-tiny-ev/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/rivian-Hero_1_R1S_Max_Pack.jpg?resize=1200,675",
+            "publishedAt": "2023-06-02T22:55:07Z",
+            "content": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.\r\nRebecca Bellan here, and yup, I’m still steering the ship.… [+12398 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "After investing $28B in Slack, Salesforce bets on one of its own as new CEO",
+            "description": "We sat down one on one with the new Slack CEO Lidiane Jones to learn more about Salesforce's Slack integration and what it's like taking over for a charismatic founder-CEO.",
+            "url": "https://techcrunch.com/2023/06/04/slack-ceo-interview/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-1.33.12-PM.jpg?resize=1200,802",
+            "publishedAt": "2023-06-02T22:02:35Z",
+            "content": "In a flurry of activity at the end of last year, Salesforce announced that co-CEO Bret Taylor was stepping down. Shortly thereafter, Slack co-founder and CEO Stewart Butterfield announced his exit. W… [+2026 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "For startups, growth still trumps cloud cost control",
+            "description": "A recent survey of founders indicates that even as startups take a closer look at their cloud spending, growth is still a priority.",
+            "url": "https://techcrunch.com/2023/06/04/startups-cloud-cost-control/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-150654701.jpg?resize=1200,897",
+            "publishedAt": "2023-06-02T21:30:06Z",
+            "content": "There’s room for startups to cut their cloud costs, even if they have to balance the implicit costs of doing so, such as the time required and the potential for slower development. The question then … [+1275 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "Scammers publish ads for hacking services on government websites",
+            "description": "Unknown scammers exploited vulnerabilities in U.S. government websites to upload PDFs advertising hacking services.",
+            "url": "https://techcrunch.com/2023/06/02/scammers-publish-ads-for-hacking-services-on-government-websites/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+            "publishedAt": "2023-06-02T21:21:53Z",
+            "content": "Scammers have published various advertisements for hacking services on the official websites of multiple U.S. state, county and local governments, a federal agency, as well as numerous universities.\r… [+8025 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Szkutak",
+            "title": "Deal Dive: Doing venture math on the non-alcoholic spirits industry",
+            "description": "The non-alcoholic spirits industry is a small but growing market. But it's unclear if it is large enough to produce venture returns.",
+            "url": "https://techcrunch.com/2023/06/03/aplos-drink-venture-investments/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1012396740.jpg?resize=1200,800",
+            "publishedAt": "2023-06-02T21:19:31Z",
+            "content": "Hangovers suck. Especially so for those who felt pressured to drink the alcohol that inevitably caused the hangover to begin with.\r\nDrinking is slowly starting to fall out of fad, especially among yo… [+1814 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anna Heim",
+            "title": "Is AI ever too much AI?",
+            "description": "Exploring how one VC is feeling about a big chunk of her portfolio pivot into AI, and some updates on internal developer portals",
+            "url": "https://techcrunch.com/2023/06/03/artificial-intelligence-vc-portfolio/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1284113915.jpg?resize=1200,762",
+            "publishedAt": "2023-06-01T21:15:58Z",
+            "content": "Welcome to the TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+654 chars]"
+        }
+    ]
+}
